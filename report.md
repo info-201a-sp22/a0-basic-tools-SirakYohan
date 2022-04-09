@@ -18,11 +18,10 @@ The quote from the book that relates to graph
  
 End of the quote
  
-![Graph of data]
-(https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6Inl0bDk3ZDkyLzMxNTgzODg3Njg1ODgwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTYwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX19) 
+![Graph of data](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/6#8b60rgc7u9) 
  
  
-##Data Viz Biography.
+## Data Viz Biography.
  
 1. **Who or what institution produced the visualization?**
     The paper that produced the visualization was moores law.
