@@ -4,7 +4,7 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 
 ```bash
 # (1) Print your working directory [1 points]
-pwd
+Info 201, New Folder
 
 # (2) List the files in your current directory [1 point]
 no files in when I type pwd
