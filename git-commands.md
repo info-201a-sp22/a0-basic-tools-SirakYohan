@@ -4,10 +4,10 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 
 ```bash
 # (1) Print your working directory [1 points]
-Info 201, New Folder
+Done
 
 # (2) List the files in your current directory [1 point]
-no files in when I type pwd
+Info 201, New Folder
 # (3) Change your directory to a folder in which you do work for this class (if you haven't created such a folder, please do so now — perhaps titled "INFO201") [1 point]
 
 done
